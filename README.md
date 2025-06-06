@@ -1,25 +1,43 @@
-MYBIKE - Bike store landing page
-This project translates the stylish Figma design for a modern bike store into a PixelPerfect, responsive and fast landing page. It is adapted to all screen sizes. The UI is enhansed with hover effects, smooth scrolling and a convenient navigation menu. Every button and form input is clickable.
+# 🚲 MYBIKE – Bike Store Landing Page
 
-Live demo
-Explore the site by the - [DEMO LINK](https://PiekharievaK.github.io/My-Bike/)
+This project translates the stylish Figma design for a modern bike store into a pixel-perfect, responsive and fast landing page. It is adapted to all screen sizes. The UI is enhanced with hover effects, smooth scrolling, and a convenient navigation menu. Every button and form input is clickable.
 
-Figma design
-Compare the implemented page with the Figma design
+---
 
-Technologies used
-HTML5 for page markup SCSS for styling
+## 🔗 Live Demo
 
-Vite as a build tool ESLint for code quality Prettier for automatic formatting
+Explore the site here: [DEMO LINK](https://PiekharievaK.github.io/My-Bike/)
 
-Getting started
-Clone the repository: git clone https://github.com/PiekharievaK/My-Bike.git cd project-name
+---
 
-Install dependencies: npm install or yarn install
+## 🎨 Figma Design
 
-Run the project locally: npm start or yarn start
+Compare the implemented page with the Figma design. *(Add link if available.)*
 
-Features
-Responsive design - added two breakpoints for responsiveness on different screen resolutions
-Hover effects on UI elements for better user experience. Including hover effect with appearing phone number in the header element.
-Menu transition for better site navigation.
+---
+
+## 🛠️ Technologies Used
+
+- HTML5 for page markup  
+- SCSS for styling  
+- ESLint for code quality  
+- Prettier for automatic formatting
+
+---
+
+## 🚀 Getting Started
+
+1. git clone https://github.com/PiekharievaK/My-Bike.git
+cd My-Bike
+
+2. Install dependencies: npm install or yarn install
+
+3. Run the project locally: npm start or yarn start
+
+
+## ✨ Features
+
+- Responsive design – with two breakpoints for optimal display across screen sizes  
+- Hover effects – UI elements respond visually to interaction (e.g., phone icon reveals number)  
+- Menu transitions – animated burger menu for smoother navigation  
+- All buttons and form inputs are clickable
