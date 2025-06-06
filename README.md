@@ -12,7 +12,7 @@ Explore the site here: [DEMO LINK](https://PiekharievaK.github.io/My-Bike/)
 
 ## 🎨 Figma Design
 
-Compare the implemented page with the Figma design. [FIGMA LINK]([https://PiekharievaK.github.io/My-Bike/](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version)
+Compare the implemented page with the Figma design. [FIGMA LINK]([https://PiekharievaK.github.io/My-Bike/](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version).
 
 ---
 
